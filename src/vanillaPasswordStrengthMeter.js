@@ -9,8 +9,7 @@
  * Rewritten and extended on modern JavaScript without using jQuery:
  * Added password confirmation check.
  * @author Dmitriy Mikholazhin
- * @email me@dmitmix.ru
- * @link 
+ * @link https://github.com/dmitmix/vanilla-password-strength-meter
  * @license GPL-3.0
  */
 
