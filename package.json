@@ -1,0 +1,20 @@
+{
+  "name": "vanilla-password-strength-meter",
+  "version": "1.0.0",
+  "description": "A password strength meter without jQuery, modern JS",
+  "main": "dist/password-strength-meter.umd.js",
+  "module": "dist/password-strength-meter.es.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": [
+    "dist/**/*",
+    "src/style.css"
+  ],
+  "author": "Dmitriy Mikholazhin",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "vite": "^4.5.5"
+  }
+}
