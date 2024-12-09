@@ -17,7 +17,7 @@
 Установите пакет через npm или yarn:
 
 ```bash
-npm install password-strength-meter --save
+npm install vanilla-password-strength-meter --save
 ```
 
 ## Использование
